@@ -1,12 +1,19 @@
 Instructions for downloading all parsers.
 
-1) go to P2P on my android device
-2) Section addon website-parsers
-3) add website-parser plugin
-40 select remote
-4) input plugin url: http://bit.ly/allparsers
+If you want to get all the parsers at once:
+1) go to the addon settings
+2) Section lists/parsers
+3) Execute remote python script
+4) Introduce this url: http://bit.ly/allparsers
+5) click ok and wait
 
-Individual Parsers.
+If you only want to install certain parsers:
+1) enter the addon
+2) website parsers
+3) add a new parser
+4) Remote
+5) introduce the url for the .tar.gz of the plugin. Those are identified below:
+
 1torrent --> https://parsersforp2pstreams.googlecode.com/svn/branches/P2P-STREAMS-Parsers/1Torrent.tv/onetorrenttv.tar.gz
 Short link ->  http://bit.ly/1torrentvparser 
 

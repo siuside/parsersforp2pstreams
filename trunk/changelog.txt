@@ -1,0 +1,23 @@
+
+10/9/2014 -> Small update to get the playlist channels to work on sopcast.ucoz
+18/9/2014
+Rojadirecta -> fix resolver function (eg.futbolsinlimites) + icons for available channels
+
+Arenavision -> Dialog select when lauching from schedule
+
+Livefootballws -> Cosmetics
+Livefootballvideo -> Missing dialog if sop/ace links are not available
+
+sopcastucoz -> Dropped. No longer supported
+
+livefootballaol -> Dropped. No longer supported
+
+30/9/2014
+Wiziwig -> added next page menu entry
+
+Changelog with regards to the remote install parsers  :)
+
+Sopcast.ucoz & livefootballaol will no longer be /maintained but will still be hosted until they break no support will be offered for either of these parsers.
+
+Cheers
+
